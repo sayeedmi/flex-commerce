@@ -1,1 +1,1 @@
-# flex-commerce
+# panda-commerce
